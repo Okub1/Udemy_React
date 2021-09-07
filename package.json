@@ -1,0 +1,23 @@
+{
+  "name": "udemy_react",
+  "version": "1.0.0",
+  "description": "Udemy React course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Okub1/Udemy_React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Okub1/Udemy_React/issues"
+  },
+  "homepage": "https://github.com/Okub1/Udemy_React#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
