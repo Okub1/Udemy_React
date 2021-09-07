@@ -8,5 +8,6 @@ There are folders neatly sorted, all folder sections can be found at Udemy_React
 <ul>
   <li>Section 1 - Getting Started (folder not provided, as it were course informations and setups)</li>
   <li>Section 2 - JavaScript refresher</li> 
-  <li>Section 3 - React Basics & Working With Components (currently here</li>
+  <li>Section 3 - React Basics & Working With Components (currently here)</li>
 </ul>
+<i>There will be added more sections as i progress further in course...</i>
