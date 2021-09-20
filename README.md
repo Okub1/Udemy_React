@@ -15,6 +15,8 @@ There are folders neatly sorted, all folder sections can be found at Udemy_React
   <li>Section 6 - Styling React Components</li>
   <i>(note: Section 7 is basically same as 6)</i>
   <li>Section 7 - Debugging React Apps</li>
-  <li>Section 8 - Practice Project (currently here)</li>
+  <li>Section 8 - Practice Project</li>
+  <li>Section 9 - Fragments Portals and Refs</li>
+  <li>Section 10 - Advanced: Handling Side-effects, Using Reducers & Using Context API (currently here)</li>
 </ul>
 <i>There will be added more sections as i progress further in course...</i>
